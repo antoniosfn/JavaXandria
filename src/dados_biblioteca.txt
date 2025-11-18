@@ -6,14 +6,14 @@ ALUNO;4;João Ferreira;Av. Brasil, 890;Ativo;40133455;Sistemas de Informação
 PROFESSOR;5;Carla Menezes;Rua Curitiba, 450;Ativo;202588;Departamento de Computação
 
 [ACERVO]
-LIVRO;L1;Programação Orientada a Objetos;2024;true;Autor Desconhecido;ISBN-000;1
-LIVRO;L2;Estruturas de Dados em Java;2023;true;José da Silva;ISBN-111;3
+LIVRO;L1;Programação Orientada a Objetos;2024;false;Autor Desconhecido;ISBN-000;1
+LIVRO;L2;Estruturas de Dados em Java;2023;false;José da Silva;ISBN-111;3
 LIVRO;L3;Introdução à Inteligência Artificial;2022;true;Ana Pereira;ISBN-222;2
 LIVRO;L4;Banco de Dados Relacionais;2021;false;Carlos Oliveira;ISBN-333;5
 REVISTA;R1;Revista de Computação;2024;false;Editora ABC;10;ISSN-1234-5678
 REVISTA;R2;Revista Brasileira de Engenharia de Software;2023;false;Editora Tech;5;ISSN-9876-5432
 
 [EMPRESTIMOS]
-E1;1;L1;Sat Nov 15 09:00:00 GMT-03:00 2025;Sat Nov 22 09:00:00 GMT-03:00 2025;null;0.0
-E2;3;L2;Wed Nov 05 14:30:00 GMT-03:00 2025;Wed Nov 12 14:30:00 GMT-03:00 2025;null;0.0
-E3;5;L3;Fri Oct 10 10:00:00 GMT-03:00 2025;Sat Oct 18 10:00:00 GMT-03:00 2025;null;0.0
+E1;1;L1;Sáb Nov 15 09:00:00 GMT-03:00 2025;Sáb Nov 22 09:00:00 GMT-03:00 2025;null;0.0
+E2;3;L2;Qua Nov 05 14:30:00 GMT-03:00 2025;Qua Nov 12 14:30:00 GMT-03:00 2025;null;5.0
+E3;5;L3;Sex Out 10 10:00:00 GMT-03:00 2025;Sáb Out 18 10:00:00 GMT-03:00 2025;Seg Nov 17 10:00:00 GMT-03:00 2025;30.0
